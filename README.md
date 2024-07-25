@@ -18,8 +18,9 @@ I’m a passionate **third-year B.Tech student** at **GL Bajaj Institute of Tech
 - **Email:** [kunwaranuj62@gmail.com](mailto:kunwaranuj62@gmail.com)
 
 ## ⭐ Connect with Me on Social Media 📲
-- **LinkedIn:** [Anuj Singh](https://www.linkedin.com/in/anuj-singh-56a21a227/)
-- **GitHub:** [anujsingh21](https://github.com/anujsingh21)
-- **Instagram:** [kunwaranuj_](https://www.instagram.com/kunwaranuj_?igsh=MWpuemtuYnM0ZzkwNw==) 
-- **Twitter:** [KnwarAnujSing5](https://x.com/KunwarAnujSing5?t=KUQ3bYzZcVg-4E691WPW4A&s=09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj_Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-singh-56a21a227/)
+[![GitHub](https://img.shields.io/badge/GitHub-anujsingh21-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anujsingh21)
+[![Instagram](https://img.shields.io/badge/Instagram-kunwaranuj_-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunwaranuj_/)
+[![Twitter](https://img.shields.io/badge/Twitter-KnwarAnujSing5-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KunwarAnujSing5?t=KUQ3bYzZcVg-4E691WPW4A&s=09)
+
 Feel free to check out my repositories and connect with me!
