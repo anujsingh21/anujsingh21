@@ -1,4 +1,5 @@
 # Hii! , I’m  Anuj Singh
+  Profile View ![Profile View](https://profile-counter.glitch.me/{anujsingh21}/count.svg)
 - ## About Me
 - 👀 I’m interested in learning new things in the field of Computer Science
 - 🌱 I’m currently learning DSA and working on a Project
