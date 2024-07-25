@@ -1,6 +1,6 @@
 # Hi there, I'm Anuj Singh! 👋
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/anujsingh21/profile-views)
+![Profile Views](https://hits.sh/github.com/anujsingh21.svg?style=for-the-badge&label=Profile%20Views&color=informational&labelColor=gray)
 
 ## About Me
 I'm a third-year B.Tech student at GL Bajaj Institute of Technology in the Computer Science department. Born and raised in Ballia, I have a strong passion for algorithms, data structures, and software development.
