@@ -8,7 +8,7 @@ I’m a passionate **third-year B.Tech student** at **GL Bajaj Institute of Tech
 - **Languages:** C, C++
 - **Tools:** Git, VS Code
 - **Development:** HTML , CSS, JavaScript and Bootstrap
-- **Programming Concept:** Data Structure & Algorith , Operating System , OOPs
+- **Programming Concept:** Data Structure & Algorithm , Operating System , OOPs
 - **Databases:** MySQL, MongoDB
 
 ## 🎓 Education
