@@ -2,7 +2,7 @@
 ![Profile Views](https://hits.sh/github.com/anujsingh21.svg?style=for-the-badge&label=Profile%20Views&color=informational&labelColor=gray)
 
 ## About Me
-I’m a passionate **third-year B.Tech student** at **GL Bajaj Institute of Technology**, specializing in **Computer Science**. I was born and raised in **Ballia**, and I have a strong interest in **algorithms**, **data structures**, and **software development**.
+I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Technology**, specializing in **Computer Science**. I was born and raised in **Ballia**, and I have a strong interest in **algorithms**, **data structures**, and **software development**.
 
 ## 🛠 Skills & Technologies
 - **Languages:** C, C++
