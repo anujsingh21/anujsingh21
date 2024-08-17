@@ -23,10 +23,11 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 <br><br>
 
 
-## ⭐ Connect with Me on Social Media 📲
+## ⭐ Connect with me on social media 📲
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-singh-56a21a227/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anujsingh21) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunwaranuj_?igshid=MWpuemtuYnM0ZzkwNw==) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KunwarAnujSing5?t=KUQ3bYzZcVg-4E691WPW4A&s=09) | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072648142797) |
-| --- | --- | --- | --- | --- | --- |
+| [LinkedIn](https://www.linkedin.com/in/anuj-singh-56a21a227/) | [GitHub](https://github.com/anujsingh21) | [Instagram](https://www.instagram.com/kunwaranuj_?igshid=MWpuemtuYnM0ZzkwNw==) | [Twitter](https://x.com/KunwarAnujSing5?t=KUQ3bYzZcVg-4E691WPW4A&s=09) | [Facebook](https://facebook.com/your-facebook-id) |
+| --- | --- | --- | --- | --- |
+| <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/> | <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/> | <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/> |
 
 <br><br>
 
