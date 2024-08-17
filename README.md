@@ -28,13 +28,10 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujsingh21&theme=radical)
 
 
-## 📫 How to Reach Me
-- **Email:** [kunwaranuj62@gmail.com](mailto:kunwaranuj62@gmail.com)
-
 ## ⭐ Connect with Me on Social Media 📲
-- **LinkedIn:** [Anuj Singh](https://www.linkedin.com/in/anuj-singh-56a21a227/)
-- **GitHub:** [anujsingh21](https://github.com/anujsingh21)
-- **Instagram:** [kunwaranuj_](https://www.instagram.com/kunwaranuj_?igsh=MWpuemtuYnM0ZzkwNw==) 
-- **Twitter:** [KnwarAnujSing5](https://x.com/KunwarAnujSing5?t=KUQ3bYzZcVg-4E691WPW4A&s=09) 
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-singh-56a21a227/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anujsingh21) | [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow-id) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunwaranuj_?igshid=MWpuemtuYnM0ZzkwNw==) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KunwarAnujSing5?t=KUQ3bYzZcVg-4E691WPW4A&s=09) | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072648142797) |
+| --- | --- | --- | --- | --- | --- |
+
 
 Feel free to check out my repositories and connect with me!
