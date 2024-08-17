@@ -25,19 +25,19 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 
 ## ⭐ Connect with me on social media 📲
 
-**LinkedIn**  
+**LinkedIn**&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/anuj-singh-56a21a227/)&nbsp;&nbsp;&nbsp;&nbsp;
 
-**GitHub**  
+**GitHub**&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/anujsingh21)&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Instagram**  
+**Instagram**&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/kunwaranuj_?igshid=MWpuemtuYnM0ZzkwNw==)&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Twitter**  
+**Twitter**&nbsp;&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/KunwarAnujSing5?t=KUQ3bYzZcVg-4E691WPW4A&s=09)&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Facebook**  
+**Facebook**&nbsp;&nbsp;&nbsp;&nbsp;
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/your-facebook-id)
 
 
