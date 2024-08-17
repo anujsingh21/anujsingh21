@@ -17,13 +17,11 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
   - **10th Grade:** 83.3%
   - **12th Grade:** 76.6%
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Most Used Languages
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujsingh21&show_icons=true&theme=radical)
+| ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujsingh21&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh21&layout=compact&theme=radical) |
+| --- | --- |
 
-## 🔝 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh21&layout=compact&theme=radical)
 
 ## 🔥 Contributions Streak
 
