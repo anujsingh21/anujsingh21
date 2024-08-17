@@ -3,6 +3,7 @@
 
 ## About Me
 I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Technology**, specializing in **Computer Science**. I was born and raised in **Ballia**, and I have a strong interest in **algorithms**, **data structures**, and **software development**.
+<br><br>
 
 ## 🛠 Skills & Technologies
 - **Languages:** C, C++
@@ -10,7 +11,7 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 - **Development:** HTML , CSS, JavaScript , Bootstrap and NodeJS
 - **Programming Concept:** Data Structure & Algorithm , Operating System , OOPs , DBMS
 - **Databases:** MySQL, MongoDB
-
+<br><br>
 
 ## 📚 Academic
 
@@ -30,9 +31,6 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 | <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/> | <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/> | <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/> |
 
 
-
-
-
 <br><br>
 
 
@@ -46,5 +44,5 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujsingh21&theme=radical)
 
-
+<br><br>
 Feel free to check out my repositories and connect with me!
