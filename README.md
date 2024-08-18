@@ -25,7 +25,6 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 <br><br>
 ## Coding Profiles
 
-<p align="center">
   <a href="https://leetcode.com/u/the_anuj/">
     <img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode" height="30px" style="margin: 5px;">
   </a>
@@ -41,7 +40,6 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
   <a href="https://www.codechef.com/users/anujsingh18">
     <img src="https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=CodeChef" height="30px" style="margin: 5px;">
   </a>
-</p>
 
 
 <br><br>
