@@ -1,4 +1,4 @@
-# Hi there, I'm Anuj Singh! 👋
+# Hi 👋, I'm Anuj Singh! 
 ![Profile Views](https://hits.sh/github.com/anujsingh21.svg?style=for-the-badge&label=Profile%20Views&color=informational&labelColor=gray)
 
 ## About Me
@@ -25,11 +25,25 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 <br><br>
 ## Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/u/the_anuj/)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat-square&logo=CodingNinjas)](https://www.naukri.com/code360/profile/The_Anuj)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square&logo=GeeksforGeeks)](https://www.geeksforgeeks.org/user/anujsingh07/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank)](https://www.hackerrank.com/profile/anujsingh2302201)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/anujsingh18)
+<p align="center">
+  <a href="https://leetcode.com/u/the_anuj/">
+    <img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode" height="30px" style="margin: 5px;">
+  </a>
+  <a href="https://www.naukri.com/code360/profile/The_Anuj">
+    <img src="https://img.shields.io/badge/-CodingNinjas-orange?style=flat-square&logo=CodingNinjas" height="30px" style="margin: 5px;">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/anujsingh07/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square&logo=GeeksforGeeks" height="30px" style="margin: 5px;">
+  </a>
+  <a href="https://www.hackerrank.com/profile/anujsingh2302201">
+    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank" height="30px" style="margin: 5px;">
+  </a>
+  <a href="https://www.codechef.com/users/anujsingh18">
+    <img src="https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=CodeChef" height="30px" style="margin: 5px;">
+  </a>
+</p>
+
+
 <br><br>
 
 
