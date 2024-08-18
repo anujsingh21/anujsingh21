@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anuj Singh! 
 ![Profile Views](https://hits.sh/github.com/anujsingh21.svg?style=for-the-badge&label=Profile%20Views&color=informational&labelColor=gray)
 
-## About Me
+## 📝 About Me
 I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Technology**, specializing in **Computer Science**. I was born and raised in **Ballia**, and I have a strong interest in **algorithms**, **data structures**, and **software development**.
 <br><br>
 
@@ -17,13 +17,13 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 
 | Qualification | Studied at | Institute | Affiliated by | Year of Study | Percentage |
 | --- | --- | --- | --- | --- | --- |
-| B.Tech CSE | <img src="https://www.glbitm.org/Uploads/image/846imguf_LogoGLBajaj.jpg" width="30"> | G.L. Bajaj Institute of Technology and Management | AKTU | Nov 2021 - Present | 74.3% |
-| Intermediate | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="30"> | Sri Prakash Inter College, Ballia | UP Board | 2019 - 2020 | 76.6% |
-| Highschool | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="30"> | Nagaji Saraswati Vidya Mandir School, Ballia | UP Board | 2018 - 2019 | 83.3% |
+| B.Tech CSE | <img src="https://www.glbitm.org/Uploads/image/846imguf_LogoGLBajaj.jpg" width="35"> | G.L. Bajaj Institute of Technology and Management | AKTU | Nov 2021 - Present | 74.3% |
+| Intermediate | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="35"> | Sri Prakash Inter College, Ballia | UP Board | 2019 - 2020 | 76.6% |
+| Highschool | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="35"> | Nagaji Saraswati Vidya Mandir School, Ballia | UP Board | 2017 - 2018 | 83.3% |
 
 
 <br><br>
-## Coding Profiles
+## 🧑‍💻 Coding Profiles
 
   <a href="https://leetcode.com/u/the_anuj/">
     <img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode" height="30px" style="margin: 5px;">
@@ -55,7 +55,7 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 <br><br>
 
 
-## 📊 GitHub Stats & Most Used Languages
+## 📊 GitHub Stats
 
 | ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujsingh21&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh21&layout=compact&theme=radical) |
 | --- | --- |
