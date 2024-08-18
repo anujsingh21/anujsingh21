@@ -45,11 +45,7 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 <br><br>
 
 
-## 📧 Contact Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-
-<br><br>
 
 ## ⭐ Connect with me on social media 📲
 
@@ -74,4 +70,10 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujsingh21&theme=radical)
 
 <br><br>
+## 📧 Contact Me
+
+- **Email:** [kunwaranuj62@gmail.com](mailto:kunwaranuj62@gmail.com)
+
+<br><br>
+
 Feel free to check out my repositories and connect with me!
