@@ -74,6 +74,4 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 
 - **Email:** [kunwaranuj62@gmail.com](mailto:kunwaranuj62@gmail.com)
 
-<br><br>
-
 Feel free to check out my repositories and connect with me!
