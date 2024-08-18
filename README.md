@@ -13,21 +13,24 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 - **Databases:** MySQL, MongoDB
 <br><br>
 
-## 📚 Academic
+## 🎓 Education
 
-| Degree | Institution | Score | Duration |
-| --- | --- | --- | --- |
-| <img src="https://www.glbitm.org/Uploads/image/846imguf_LogoGLBajaj.jpg" alt="BTech" width="60"/> B.Tech (CSE) | GL Bajaj Institute of Technology and Management | 74.3% | Nov 2021 - Current |
-| <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" alt="Intermediate" width="47"/> 10+2  | Sri Prakash Inter College (UP Board) | 76.6% | May 2019 - Jun 2020 |
-| <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" alt="High School" width="47"/> 10th | Nagaji Saraswati Vidya Mandir School, Ballia (UP Board) | 83.3% | May 2017 - Jun 2018 |
+| Qualification | Studied at | Institute | Affiliated by | Year of Study | Percentage |
+| --- | --- | --- | --- | --- | --- |
+| B.Tech CSE | <img src="https://www.glbitm.org/Uploads/image/846imguf_LogoGLBajaj.jpg" width="30"> | G.L. Bajaj Institute of Technology and Management | AKTU | Nov 2021 - Present | 74.3% |
+| Intermediate | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="30"> | Sri Prakash Inter College, Ballia | UP Board | 2019 - 2020 | 76.6% |
+| Highschool | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="30"> | Nagaji Saraswati Vidya Mandir School, Ballia | UP Board | 2018 - 2019 | 83.3% |
+
 
 <br><br>
 ## Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode)]([https://leetcode.com/your-username/](https://leetcode.com/u/the_anuj/))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/u/the_anuj/)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat-square&logo=CodingNinjas)](https://www.naukri.com/code360/profile/The_Anuj)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square&logo=GeeksforGeeks)](https://www.geeksforgeeks.org/user/anujsingh07/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank)](https://www.hackerrank.com/profile/anujsingh2302201)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/anujsingh18)
+<br><br>
 
 
 ## ⭐ Connect with me on social media 📲
