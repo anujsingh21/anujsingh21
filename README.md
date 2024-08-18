@@ -22,6 +22,12 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" alt="High School" width="47"/> 10th | Nagaji Saraswati Vidya Mandir School, Ballia (UP Board) | 83.3% | May 2017 - Jun 2018 |
 
 <br><br>
+## Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode)]([https://leetcode.com/your-username/](https://leetcode.com/u/the_anuj/))
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat-square&logo=CodingNinjas)](https://www.naukri.com/code360/profile/The_Anuj)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank)](https://www.hackerrank.com/profile/anujsingh2302201)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/anujsingh18)
 
 
 ## ⭐ Connect with me on social media 📲
