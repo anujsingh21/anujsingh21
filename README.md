@@ -70,10 +70,6 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujsingh21&theme=radical)
 
 <br><br>
-## 📊 GitHub Contribution Activity
-
-![GitHub Contribution Graph](https://github.com/anujsingh21/repository-name/blob/main/path/to/your/image.png)
-<br><br>
 
 ## 📧 Contact Me
 
