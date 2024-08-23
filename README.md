@@ -62,6 +62,10 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 
 | ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujsingh21&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh21&layout=compact&theme=radical) |
 | --- | --- |
+### 🔥 Contributions Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujsingh21&theme=radical)
+
 
 <br><br>
 
