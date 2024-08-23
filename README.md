@@ -58,58 +58,10 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 
 <br><br>
 
-<div class="stats-container">
-  <div class="stat-card">
-    <img src="path-to-your-github-stats-image" alt="GitHub Stats">
-  </div>
-  
-  <div class="stat-card">
-    <img src="path-to-your-contributions-streak-image" alt="Contributions Streak">
-  </div>
-</div>
+## 📊 GitHub Stats
 
-### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh21&layout=compact&theme=radical)
-
----
-
-### 🔥 Contributions Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujsingh21&theme=radical)
-
----
-
-<style>
-  .stats-container {
-    perspective: 1000px;
-  }
-  .stat-card {
-    transform-style: preserve-3d;
-    transition: transform 0.5s ease;
-  }
-  .stat-card:hover {
-    transform: rotateY(20deg) rotateX(10deg);
-  }
-  .stats-container.scroll-3d .stat-card {
-    transform: rotateY(-10deg) rotateX(-5deg);
-  }
-  .stat-card:hover {
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-  }
-</style>
-
-<script>
-  window.addEventListener('scroll', function() {
-    const container = document.querySelector('.stats-container');
-    const containerPosition = container.getBoundingClientRect().top;
-
-    if (containerPosition < window.innerHeight) {
-      container.classList.add('scroll-3d');
-    } else {
-      container.classList.remove('scroll-3d');
-    }
-  });
-</script>
+| ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujsingh21&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh21&layout=compact&theme=radical) |
+| --- | --- |
 
 <br><br>
 
