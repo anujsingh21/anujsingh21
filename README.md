@@ -19,7 +19,7 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 | --- | --- | --- | --- | --- | --- |
 | B.Tech CSE | <img src="https://www.glbitm.org/Uploads/image/846imguf_LogoGLBajaj.jpg" width="35"> | G.L. Bajaj Institute of Technology and Management | AKTU | Nov 2021 - Present | 74.3% |
 | Intermediate | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="35"> | Sri Prakash Inter College, Ballia | UP Board | 2019 - 2020 | 76.6% |
-| Highschool | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="35"> | Nagaji Saraswati Vidya Mandir School, Ballia | UP Board | 2017 - 2018 | 83.3% |
+| Highschool | <img src="https://seeklogo.com/images/B/board-of-high-school-intermediate-uttar-pradesh-logo-C72295BBDE-seeklogo.com.png" width="35"> | Nagaji Saraswati Vidya Mandir School, Ballia | UP Board | 2018 - 2019 | 83.3% |
 
 
 <br><br>
