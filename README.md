@@ -68,13 +68,14 @@ I’m a passionate **Final-year B.Tech student** at **GL Bajaj Institute of Tech
 
 <br><br>
 
-## 📧 Contact Me
-
-- **Email:** [kunwaranuj62@gmail.com](mailto:kunwaranuj62@gmail.com)
-<br><br>
-
 ## 🙌 Thank You!
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories, check out my projects, and connect with me on social media. Your feedback and contributions are always welcome!
 
 **Have a great day!** 😊
+<br><br>
+
+## 📧 Contact Me
+
+- **Email:** [kunwaranuj62@gmail.com](mailto:kunwaranuj62@gmail.com)
+<br><br>
